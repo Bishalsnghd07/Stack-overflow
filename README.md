@@ -30,9 +30,8 @@ npm start
 ```
 
 ## Pics of this website:
-![image](https://github.com/Bishalsnghd07/Stack-overflow/assets/88236153/59700d9d-80b4-4f38-be09-be5688ceb591)
-![image](https://github.com/Bishalsnghd07/Stack-overflow/assets/88236153/f6eada5f-475a-4c10-bd7b-224f27bf060e)
-
+![Screenshot (382)](https://github.com/Bishalsnghd07/Stack-overflow/assets/88236153/2c7ff1df-ac8a-4fa9-b4e3-8035d8744e25)
+![Screenshot (383)](https://github.com/Bishalsnghd07/Stack-overflow/assets/88236153/068b29de-7264-4487-a294-0c76b6ee597a)
 
 ## Live Link for the website:
 
